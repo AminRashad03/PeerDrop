@@ -1,0 +1,5 @@
+{
+  "name": "PeerDrop - P2P Data Transfer",
+  "description": "Securely transfer files, images, and text between your phone and PC. No installation required. Just share a simple code to create a direct, peer-to-peer connection.",
+  "requestFramePermissions": []
+}
